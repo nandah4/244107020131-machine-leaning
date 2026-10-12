@@ -1,5 +1,2 @@
-# File laporan Word (docx) tidak perlu masuk repo
-*.docx
 
-# Dataset besar (melebihi batas 100 MB GitHub), cukup disimpan lokal
-Pertemuan 7/spotify_songs.csv
+*.docx
