@@ -1,2 +1,5 @@
+*.py
 
-*.docx
+# hasil ekstraksi images.zip (dataset asli tetap disertakan)
+images/
+screenshots/
