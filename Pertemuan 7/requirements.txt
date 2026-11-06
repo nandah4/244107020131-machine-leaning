@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+annoy
+faiss-cpu
+hnswlib
+
+# Hanya diperlukan untuk menjalankan make_screenshots.py
+pygments
+playwright
+pillow
